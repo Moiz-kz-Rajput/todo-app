@@ -1,6 +1,6 @@
 todo-app
 ========
 
-Todo App with node.js mongodb
+Single Page Todo App with node.js mongodb jqury bootstrap.
 
 http://moiz-todo.herokuapp.com/
