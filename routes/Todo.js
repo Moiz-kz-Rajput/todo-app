@@ -7,7 +7,8 @@
  */
 
 var mongoose = require('mongoose');
-mongoose.connect( 'mongodb://localhost/mydata' );
+//mongoose.connect( 'mongodb://localhost/mydata' );
+mongoose.connect('mongodb://admin:root@ds037518.mongolab.com:37518/mydata');
 
 var schema = {
 
